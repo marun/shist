@@ -1,0 +1,36 @@
+[submodule "grains/library-go"]
+	path = library-go
+	url = https://github.com/openshift/library-go
+[submodule "grains/cluster-openshift-apiserver-operator"]
+	path = cluster-openshift-apiserver-operator
+	url = https://github.com/openshift/cluster-openshift-apiserver-operator
+[submodule "grains/api"]
+	path = api
+	url = https://github.com/openshift/api
+[submodule "grains/apiserver-library-go"]
+	path = apiserver-library-go
+	url = https://github.com/openshift/apiserver-library-go
+[submodule "grains/client-go"]
+	path = client-go
+	url = https://github.com/openshift/client-go
+[submodule "grains/service-ca-operator"]
+	path = service-ca-operator
+	url = https://github.com/openshift/service-ca-operator
+[submodule "grains/cluster-kube-apiserver-operator"]
+	path = cluster-kube-apiserver-operator
+	url = https://github.com/openshift/cluster-kube-apiserver-operator
+[submodule "grains/cluster-kube-controller-manager-operator"]
+	path = cluster-kube-controller-manager-operator
+	url = https://github.com/openshift/cluster-kube-controller-manager-operator
+[submodule "grains/build-machinery-go"]
+	path = build-machinery-go
+	url = https://github.com/openshift/build-machinery-go
+[submodule "grains/cluster-etcd-operator"]
+	path = cluster-etcd-operator
+	url = https://github.com/openshift/cluster-etcd-operator
+[submodule "grains/cluster-openshift-controller-manager-operator"]
+	path = cluster-openshift-controller-manager-operator
+	url = https://github.com/openshift/cluster-openshift-controller-manager-operator
+[submodule "grains/cluster-authentication-operator"]
+	path = cluster-authentication-operator
+	url = https://github.com/openshift/cluster-authentication-operator
