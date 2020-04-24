@@ -64,3 +64,27 @@
 [submodule "cluster-kube-scheduler-operator"]
 	path = cluster-kube-scheduler-operator
 	url = https://github.com/openshift/cluster-kube-scheduler-operator
+[submodule "cluster-monitoring-operator"]
+	path = cluster-monitoring-operator
+	url = https://github.com/openshift/cluster-monitoring-operator
+[submodule "cluster-network-operator"]
+	path = cluster-network-operator
+	url = https://github.com/openshift/cluster-network-operator
+[submodule "cluster-ingress-operator"]
+	path = cluster-ingress-operator
+	url = https://github.com/openshift/cluster-ingress-operator
+[submodule "cluster-dns-operator"]
+	path = cluster-dns-operator
+	url = https://github.com/openshift/cluster-dns-operator
+[submodule "cluster-config-operator"]
+	path = cluster-config-operator
+	url = https://github.com/openshift/cluster-config-operator
+[submodule "cluster-node-tuning-operator"]
+	path = cluster-node-tuning-operator
+	url = https://github.com/openshift/cluster-node-tuning-operator
+[submodule "cluster-samples-operator"]
+	path = cluster-samples-operator
+	url = https://github.com/openshift/cluster-samples-operator
+[submodule "cluster-storage-operator"]
+	path = cluster-storage-operator
+	url = https://github.com/openshift/cluster-storage-operator
