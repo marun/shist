@@ -34,3 +34,33 @@
 [submodule "grains/cluster-authentication-operator"]
 	path = cluster-authentication-operator
 	url = https://github.com/openshift/cluster-authentication-operator
+[submodule "csi-operator"]
+	path = csi-operator
+	url = https://github.com/openshift/csi-operator
+[submodule "machine-config-operator"]
+	path = machine-config-operator
+	url = https://github.com/openshift/machine-config-operator
+[submodule "cluster-kube-descheduler-operator"]
+	path = cluster-kube-descheduler-operator
+	url = https://github.com/openshift/cluster-kube-descheduler-operator
+[submodule "console-operator"]
+	path = console-operator
+	url = https://github.com/openshift/console-operator
+[submodule "cluster-csi-snapshot-controller-operator"]
+	path = cluster-csi-snapshot-controller-operator
+	url = https://github.com/openshift/cluster-csi-snapshot-controller-operator
+[submodule "machine-api-operator"]
+	path = machine-api-operator
+	url = https://github.com/openshift/machine-api-operator
+[submodule "cluster-image-registry-operator"]
+	path = cluster-image-registry-operator
+	url = https://github.com/openshift/cluster-image-registry-operator
+[submodule "cluster-version-operator"]
+	path = cluster-version-operator
+	url = https://github.com/openshift/cluster-version-operator
+[submodule "cluster-kube-storage-version-migrator-operator"]
+	path = cluster-kube-storage-version-migrator-operator
+	url = https://github.com/openshift/cluster-kube-storage-version-migrator-operator
+[submodule "cluster-kube-scheduler-operator"]
+	path = cluster-kube-scheduler-operator
+	url = https://github.com/openshift/cluster-kube-scheduler-operator
